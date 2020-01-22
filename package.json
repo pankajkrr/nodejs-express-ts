@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.2",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "npm": "^6.13.6",
+    "typescript": "^3.7.5"
+  }
+}
